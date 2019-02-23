@@ -1,4 +1,4 @@
-# My portfolio
+# My Portfolio
 
 ## PHP sites
 
@@ -24,9 +24,20 @@ Another non-public webapplication where the staff at the customer can find descr
 
 ## Wordpress sites
 
-I have helped configuring and installing the following wordpress sites. The maintenance is now handled by the customer
+I have helped configuring and installing the following wordpress sites. The maintenance is now handled by the customer.
 
 - [brenderup-if.dk](http://brenderup-if.dk)
 - [risøhøj.dk](https://risøhøj.dk)
 - [uniterm.dk](http://uniterm.dk)
+
+## Github Repositories
+
+The following repositories is some of my sandbox repositories where i'm storing small test-projects of different technologies.
+
+- [PHP and MYSQL with Docker](https://github.com/slamidtfyn/php-mysql)
+- [.NET Core 3.0 in Docker](https://github.com/slamidtfyn/docker-dotnet3)
+- [ASP.NET Core 2.2 in Docker](https://github.com/slamidtfyn/aspnetcore22)
+- [Python in a Docker container for a Raspberry PI](https://github.com/slamidtfyn/rpi-python)
+
+
 
