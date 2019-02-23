@@ -1,5 +1,12 @@
 # My Portfolio
 
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/slamidtfyn)
+- [Twitter](https://twitter.com/slamidtfyn)
+- [GitHub](https://github.com/slamidtfyn/)
+- [Docker Hub](https://hub.docker.com/u/slamidtfyn)
+
 ## PHP sites
 
 ### [Ringe Sø Marathon](http://ringesømarathon.dk)
