@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# My portfolio
 
-You can use the [editor on GitHub](https://github.com/slamidtfyn/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## PHP sites
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Ringe Sø Marathon](http://ringesømarathon.dk)
 
-### Markdown
+The page is based on Code Igniter CMS with an MySQL database as backend and a AngularJs frontend, served from one server. The pages is both owned and maintained by my self. There is no editing page for the data in the page as it's only updated twice each year.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Bordtennisklubben HEP Ringe](http://hep-ringe.dk)
 
-```markdown
-Syntax highlighted code block
+This page is based on two different websites. One serving the static files for the webpage, which is plain HTML with some jQuery for loading data from the api. The api is a site based on Code Igniter CMS and is used to load json feeds from the Facebook page for the organisation and serve events and news feed items from there to the frontend. 
 
-# Header 1
-## Header 2
-### Header 3
+Other parts of the page is still a manual process to update
 
-- Bulleted
-- List
+## ASPNET sites
 
-1. Numbered
-2. List
+### Scannerturnus
 
-**Bold** and _Italic_ and `Code` text
+A non-public webapplication to generate work schedules for a fixed number of persons assigned to a fixed number of locations. Basically a simple randomizer to make sure that the workers are assigned to different locations with as many different co-workers as possible in a 12 week plan. If the persons or number of locations needs to be changed, this is a manual process.  
 
-[Link](url) and ![Image](src)
-```
+### MRI Protocol overview
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Another non-public webapplication where the staff at the customer can find descriptions for MRI Protocols using a browser on their smart phone instead of having an non-updated paper version of the protocols in their pocket. The page is a very simple jQuery UI page using a google sheet as a JSON datasource. The contents of the page can therefore be updated by one or more administrators with write-access to this sheet. 
 
-### Jekyll Themes
+## Wordpress sites
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slamidtfyn/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I have helped configuring and installing the following wordpress sites. The maintenance is now handled by the customer
 
-### Support or Contact
+- [brenderup-if.dk](http://brenderup-if.dk)
+- [risøhøj.dk](https://risøhøj.dk)
+- [uniterm.dk](http://uniterm.dk)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
