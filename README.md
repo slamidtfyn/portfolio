@@ -22,15 +22,17 @@ This page is based on two different websites. One serving the static files for t
 
 Other parts of the page is still a manual process to update
 
-## ASPNET sites
+## ASP.NET sites
 
 ### Scannerturnus
 
-A non-public webapplication to generate work schedules for a fixed number of persons assigned to a fixed number of locations. Basically a simple randomizer to make sure that the workers are assigned to different locations with as many different co-workers as possible in a 12 week plan. If the persons or number of locations needs to be changed, this is a manual process.  
+A non-public webapplication created using ASP.NET Core 2.1 to generate work schedules for a fixed number of persons assigned to a fixed number of locations. Basically a simple randomizer to make sure that the workers are assigned to different locations with as many different co-workers as possible in a 12 week plan. If the persons or number of locations needs to be changed, this is a manual process.
+
+Updates to the site is deployed automatically through a Azure DevOps build and release pipeline
 
 ### MRI Protocol overview
 
-Another non-public webapplication where the staff at the customer can find descriptions for MRI Protocols using a browser on their smart phone instead of having an non-updated paper version of the protocols in their pocket. The page is a very simple jQuery UI page using a google sheet as a JSON datasource. The contents of the page can therefore be updated by one or more administrators with write-access to this sheet. 
+Another non-public webapplication in using ASP.NET Core 2.2 where the staff at the customer can find descriptions for MRI Protocols using a browser on their smart phone instead of having an non-updated paper version of the protocols in their pocket. The page is a very simple jQuery UI page using a google sheet as a JSON datasource. The contents of the page can therefore be updated by one or more administrators with write-access to this sheet. 
 
 ## Wordpress sites
 
