@@ -4,9 +4,9 @@
 
 [![logo](In-2CRev-14px.png)  LinkedIn](https://www.linkedin.com/in/slamidtfyn)
 
-[Twitter](https://twitter.com/slamidtfyn)
-
 [![logo](GitHub-Mark-Light-32px.png)GitHub](https://github.com/slamidtfyn/)
+
+[Twitter](https://twitter.com/slamidtfyn)
 
 [Docker Hub](https://hub.docker.com/u/slamidtfyn)
 
