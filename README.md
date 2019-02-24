@@ -6,7 +6,7 @@
 
 [Twitter](https://twitter.com/slamidtfyn)
 
-[GitHub](https://github.com/slamidtfyn/)
+[![logo](GitHub-Mark-Light-32px.png)GitHub](https://github.com/slamidtfyn/)
 
 [Docker Hub](https://hub.docker.com/u/slamidtfyn)
 
