@@ -4,7 +4,7 @@
 
 [![logo](In-2CRev-14px.png)  LinkedIn](https://www.linkedin.com/in/slamidtfyn)
 
-[![logo](GitHub-Mark-Light-32px.png)GitHub](https://github.com/slamidtfyn/)
+[<img src="GitHub-Mark-Light-32px.png" height="16px" />GitHub](https://github.com/slamidtfyn/)
 
 [Twitter](https://twitter.com/slamidtfyn)
 
