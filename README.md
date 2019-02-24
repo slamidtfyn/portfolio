@@ -39,7 +39,7 @@ I have helped configuring and installing the following wordpress sites. The main
 
 ## Github Repositories
 
-The following repositories is some of my sandbox repositories where i'm storing small test-projects of different technologies.
+The following repositories are some of my sandbox repositories where i'm storing small test-projects of different technologies.
 
 - [PHP and MYSQL with Docker](https://github.com/slamidtfyn/php-mysql)
 - [.NET Core 3.0 in Docker](https://github.com/slamidtfyn/docker-dotnet3)
