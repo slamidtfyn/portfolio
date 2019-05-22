@@ -1,3 +1,8 @@
+---
+layout: post
+title: My portfolio
+---
+
 # My Portfolio
 
 ## Links
