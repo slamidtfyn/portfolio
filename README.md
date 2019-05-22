@@ -6,9 +6,9 @@
 
 [<img src="GitHub-Mark-Light-32px.png" height="16px" />  GitHub](https://github.com/slamidtfyn/)
 
-[Twitter](https://twitter.com/slamidtfyn)
+[<img src="Twitter_Logo_WhiteOnBlue.png" height="16px" />  Twitter](https://twitter.com/slamidtfyn)
 
-[Docker Hub](https://hub.docker.com/u/slamidtfyn)
+[<img src="icons8-docker-48.png" height="16px" />  Docker Hub](https://hub.docker.com/u/slamidtfyn)
 
 ## PHP sites
 
@@ -22,7 +22,7 @@ This page is based on two different websites. One serving the static files for t
 
 Other parts of the page is still a manual process to update
 
-## ASP.NET sites
+## Web applications
 
 ### Scannerturnus
 
@@ -32,7 +32,7 @@ Updates to the site is deployed automatically through a Azure DevOps build and r
 
 ### MRI Protocol overview
 
-Another non-public webapplication in using ASP.NET Core 2.2 where the staff at the customer can find descriptions for MRI Protocols using a browser on their smart phone instead of having an non-updated paper version of the protocols in their pocket. The page is a very simple jQuery UI page using a google sheet as a JSON datasource. The contents of the page can therefore be updated by one or more administrators with write-access to this sheet. 
+Another non-public webapplication where the staff at the customer can find descriptions for MRI Protocols using a browser on their smart phone instead of having an non-updated paper version of the protocols in their pocket. The page is a very simple jQuery UI page using a google sheet as a JSON datasource. The contents of the page can therefore be updated by one or more administrators with write-access to this sheet. 
 
 ## Wordpress sites
 
