@@ -18,6 +18,8 @@ The page is based on Code Igniter CMS with an MySQL database as backend and a An
 
 ### [Bordtennisklubben HEP Ringe](http://hep-ringe.dk)
 
+**Page no longer online**
+
 This page is based on two different websites. One serving the static files for the webpage, which is plain HTML with some jQuery for loading data from the api. The api is a site based on Code Igniter CMS and is used to load json feeds from the Facebook page for the organisation and serve events and news feed items from there to the frontend. 
 
 Other parts of the page is still a manual process to update
@@ -39,7 +41,7 @@ Another non-public webapplication where the staff at the customer can find descr
 I have helped configuring and installing the following wordpress sites. The maintenance is now handled by the customer.
 
 - [brenderup-if.dk](http://brenderup-if.dk)
-- [risøhøj.dk](https://risøhøj.dk)
+- [risøhøj.dk](https://risøhøj.dk) - **Page no longer online**
 - [uniterm.dk](http://uniterm.dk)
 
 ## Github Repositories
