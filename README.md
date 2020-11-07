@@ -41,8 +41,9 @@ Another non-public webapplication where the staff at the customer can find descr
 I have helped configuring and installing the following wordpress sites. The maintenance is now handled by the customer.
 
 - [brenderup-if.dk](http://brenderup-if.dk)
-- [risøhøj.dk](https://risøhøj.dk) - **Page no longer online**
+- [risøhøj.dk](https://risøhøj.dk)
 - [uniterm.dk](http://uniterm.dk)
+- [mogv.dk](http://beta.mogv.dk)
 
 ## Github Repositories
 
