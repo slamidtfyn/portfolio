@@ -43,7 +43,7 @@ I have helped configuring and installing the following wordpress sites. The main
 - [brenderup-if.dk](http://brenderup-if.dk)
 - [risøhøj.dk](https://risøhøj.dk)
 - [uniterm.dk](http://uniterm.dk)
-- [mogv.dk](http://beta.mogv.dk)
+- [mogv.dk](http://mogv.dk)
 
 ## Github Repositories
 
