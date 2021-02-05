@@ -44,6 +44,8 @@ I have helped configuring and installing the following wordpress sites. The main
 - [risøhøj.dk](https://risøhøj.dk)
 - [uniterm.dk](http://uniterm.dk)
 - [mogv.dk](http://mogv.dk)
+- [vinis.dk](https://vinis.dk)
+
 
 ## Github Repositories
 
